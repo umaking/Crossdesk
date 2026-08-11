@@ -6,7 +6,7 @@
 
 - 지원: macOS 12.3 이상(Apple Silicon·Intel), Windows 10/11 64비트
 - 앱 화면의 버튼 이름은 영어입니다. 이 문서에서는 `Share this computer`처럼 그대로 인용합니다.
-- 소개 자료: [brochure.html](docs/brochure.html)
+- 소개 자료: [crossdesk-brochure.html]([docs/brochure.html](http://umaking.github.io/crossdesk-brochure.html))
 
 ---
 
