@@ -181,24 +181,3 @@ CrossDesk는 **신뢰하는 네트워크와 신뢰하는 상대**를 전제로 �
 자세한 위협 모델과 한계는 [docs/security.md](docs/security.md)에 정리돼 있습니다.
 
 ---
-
-## 개발자용
-
-이 저장소는 순수 Rust 구현입니다. 이전 Electron 구현은 [`node/`](node/)에 보관되어 있습니다.
-
-```bash
-cargo run -p crossdesk-mac       # 개발 실행 (macOS)
-cargo run -p crossdesk-win       # 개발 실행 (Windows)
-scripts/build-dist.sh --all --dist   # 설치 배포판 (dist/)
-```
-
-| 문서 | 내용 |
-| --- | --- |
-| [docs/build.md](docs/build.md) | 빌드·배포판 생성·아이콘·크로스 컴파일 |
-| [docs/architecture.md](docs/architecture.md) | 크레이트 구성과 데이터 흐름 |
-| [docs/protocol.md](docs/protocol.md) | 와이어 프로토콜 레퍼런스 |
-| [docs/permissions.md](docs/permissions.md) | 권한·방화벽·권한 상승 도우미 구조 |
-| [docs/security.md](docs/security.md) | 보안 모델과 알려진 한계 |
-| [docs/usage.md](docs/usage.md) | 화면별 상세 사용법 |
-
-MIT 라이선스 © umaking · `com.umaking.crossdesk`
