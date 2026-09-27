@@ -1,2 +1,2 @@
 1bbb255c56c25b03ebacc9c5bdbf1d39f6ff0002f2b75c3e2272bd3be5873c32  CrossDesk-0.1.0.dmg
-a1781d80685691e127d919177beb0b2efe6df98decf0ceb553be60c843fa4cc9  CrossDesk-Setup-0.1.0.exe
+5191666c6efce77c42ba84ad9a529b7ed3ab03d033f2b77d398cb28225f5a2f4  CrossDesk-Setup-0.1.0.exe
